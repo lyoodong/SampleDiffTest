@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "diffmatchpatch",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PasiSalenius/DiffMatchPatch",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a9d8f8b76ee85df4c0826d09cea1404697755745"
+      }
+    }
+  ],
+  "version" : 2
+}
